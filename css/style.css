@@ -285,6 +285,13 @@ lugagaz>div>img {
     height: 300px;
     width: 400px;
 }
+lugagaz>div>img {
+    height: 300px;
+    width: 400px; 
+}
+lugagaz>div>h3{
+    font-size:25px;
+}
 
 .my-social {
     text-align: center;
