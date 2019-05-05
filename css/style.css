@@ -83,7 +83,7 @@ header,
 
 @media only screen and (max-width:768px) {
     .here {
-        background: url(/assets/backgrounds/h_img.jpg)no-repeat 0px 0px;
+        background: url(https://lugaga.github.io/delani-studio/assets/backgrounds/h_img.jpg)no-repeat 0px 0px;
         background-size: cover;
         padding: 3em;
         background-repeat: no-repeat;
