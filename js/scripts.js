@@ -16,3 +16,18 @@ $(document).ready(function() {
       $("#product-management-img").toggle();
     });
   });
+  $(function() {
+    var myscreen = 1024;
+    $(".lg-hover").click(function(lugaga) {
+      if($(window).width() <= myscreen) {
+        if($(this).hasClass("active")) {
+          $(this).removeClass("active");
+        } else {
+          lugaga.preventDefault();
+          $(this).addClass("active");
+        }
+      } else {
+        $(this).removeClass("active");
+      };
+    });
+  });
