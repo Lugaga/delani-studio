@@ -10,4 +10,9 @@ $(document).ready(function() {
     $("#design-img").toggle();
   });
 });
-
+$(document).ready(function() {
+    $("#product-management").click(function() {
+      $("#product-management-p").toggle();
+      $("#product-management-img").toggle();
+    });
+  });
