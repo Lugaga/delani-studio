@@ -45,3 +45,24 @@
     position: relative;
     bottom: -231px;
 }
+#welcome {
+    font-size: 60px;
+}
+
+h3 {
+    text-align: center;
+}
+lugaga {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+#boom-scalez {
+    flex-wrap: wrap;
+}
+html,
+body,
+header,
+.carousel {
+    height: 100%;
+}
