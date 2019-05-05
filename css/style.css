@@ -295,3 +295,8 @@ lugagaz>div>img {
 .contact-2 {
     margin-top: 2em;
 }
+.small-text{
+    color:white; 
+    padding-bottom:10px;
+    font-size: 20px;
+}
