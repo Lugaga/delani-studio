@@ -89,10 +89,41 @@ header,
         background-position: center center;
         color: #fff;
     }
-
     .mouse-click {
         position: relative;
         bottom: -23px;
-
     }
+}
+body {
+    font-family: 'Oswald', sans-serif;
+}
+#about-us h2 {
+    text-align: center;
+    font-weight: bolder;
+}
+h3 {
+    text-align: center;
+}
+.form-yangu {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+footer {
+    bottom: 0;
+    text-align: center;
+    background-color: #fff;
+    color: #000000;
+    margin-top: 5em;
+    text-transform: uppercase;
+}
+body,
+html {
+    overflow-x: hidden;
+}
+#about-us>img {
+    border-radius: 50%;
+}
+.objective {
+    margin-right: 20px;
+    margin-left: 20px;
 }
