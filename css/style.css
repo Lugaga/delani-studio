@@ -9,6 +9,8 @@
 .about-us {
     text-align: center;
     color: #000000;
+    margin-top: 2em;
+    margin-bottom: 2em;
 }
 .servicez {
     background: url(/assets/backgrounds/s_image.jpg)no-repeat 0px 0px;
@@ -270,4 +272,7 @@ lugagaz>div>img{
 .my-social {
     text-align: center;
     margin-top: 1em;
+}
+.contact-2{
+    margin-top: 2em;
 }
