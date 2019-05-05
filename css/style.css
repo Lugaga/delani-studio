@@ -6,18 +6,21 @@
     background-position: center center;
     color: #fff;
 }
+
 .about-us {
     text-align: center;
     color: #000000;
     margin-top: 2em;
     margin-bottom: 2em;
 }
+
 .servicez {
     background: url(/assets/backgrounds/s_image.jpg)no-repeat 0px 0px;
     background-size: cover;
     padding: 0;
     text-align: center;
     padding-top: 5em;
+    padding-bottom: 5em;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -89,25 +92,31 @@ header,
         background-position: center center;
         color: #fff;
     }
+
     .mouse-click {
         position: relative;
         bottom: -23px;
     }
 }
+
 body {
     font-family: 'Oswald', sans-serif;
 }
+
 #about-us h2 {
     text-align: center;
     font-weight: bolder;
 }
+
 h3 {
     text-align: center;
 }
+
 .form-yangu {
     margin-left: 20px;
     margin-right: 20px;
 }
+
 footer {
     bottom: 0;
     text-align: center;
@@ -116,17 +125,21 @@ footer {
     margin-top: 5em;
     text-transform: uppercase;
 }
+
 body,
 html {
     overflow-x: hidden;
 }
+
 #about-us>img {
     border-radius: 50%;
 }
+
 .objective {
     margin-right: 20px;
     margin-left: 20px;
 }
+
 .lg-hover,
 .lg-hover * {
     box-sizing: border-box;
@@ -225,6 +238,7 @@ html {
     -ms-transform: scale(0);
     transform: scale(0);
 }
+
 .lg-hover:hover .lg-hover-boom-scale,
 .lg-hover.active .lg-hover-boom-scale {
     border-radius: 0%;
@@ -233,46 +247,51 @@ html {
     -ms-transform: scale(1);
     transform: scale(1);
 }
+
 #year {
     margin-top: -1em;
 }
 
 #message {
     background-color: transparent;
-    color:#fff; 
+    color: #fff;
 }
 
 #email {
     background-color: transparent;
-    color:#fff; 
+    color: #fff;
 }
 
 #name {
     background-color: transparent;
-    color:#fff;
+    color: #fff;
 }
 
 ::placeholder {
     /* Chrome, Firefox, Opera, Safari 10.1+ */
-    color:#fff;
+    color: #fff;
     opacity: 1;
     /* Firefox */
 }
-lugagaz{
+
+lugagaz {
     display: flex;
     justify-content: center;
     text-align: center;
     flex-wrap: wrap;
     margin-top: 5em;
 }
-lugagaz>div>img{
+
+lugagaz>div>img {
     height: 300px;
     width: 400px;
 }
+
 .my-social {
     text-align: center;
     margin-top: 1em;
 }
-.contact-2{
+
+.contact-2 {
     margin-top: 2em;
 }
