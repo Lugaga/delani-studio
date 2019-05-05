@@ -233,3 +233,39 @@ html {
     -ms-transform: scale(1);
     transform: scale(1);
 }
+#year {
+    margin-top: -1em;
+}
+
+#message {
+    background-color: transparent;
+    color:#fff; 
+}
+
+#email {
+    background-color: transparent;
+    color:#fff; 
+}
+
+#name {
+    background-color: transparent;
+    color:#fff;
+}
+
+::placeholder {
+    /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color:#fff;
+    opacity: 1;
+    /* Firefox */
+}
+lugagaz{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-wrap: wrap;
+    margin-top: 5em;
+}
+lugagaz>div>img{
+    height: 300px;
+    width: 400px;
+}
