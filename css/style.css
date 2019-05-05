@@ -1,0 +1,8 @@
+.here {
+    background: url(/assets/backgrounds/h_img.jpg)no-repeat 0px 0px;
+    background-size: cover;
+    padding: 17em;
+    background-repeat: no-repeat;
+    background-position: center center;
+    color: #fff;
+}
