@@ -6,10 +6,12 @@
     background-position: center center;
     color: #fff;
 }
+
 .about-us {
     text-align: center;
     color: #000000;
 }
+
 .servicez {
     background: url(/assets/backgrounds/s_image.jpg)no-repeat 0px 0px;
     background-size: cover;
@@ -21,6 +23,7 @@
     background-position: center center;
     color: #fff;
 }
+
 .contact {
     background: url(/assets/backgrounds/c_image.jpg)no-repeat 0px 0px;
     background-size: cover;
@@ -29,22 +32,28 @@
     background-position: center;
     color: #fff;
 }
+
 #title {
     text-align: center;
 }
+
 #development-p {
     display: none;
 }
+
 #design-p {
     display: none;
 }
+
 #product-management-p {
     display: none;
 }
+
 .mouse-click {
     position: relative;
     bottom: -231px;
 }
+
 #welcome {
     font-size: 60px;
 }
@@ -52,24 +61,25 @@
 h3 {
     text-align: center;
 }
+
 lugaga {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
 }
+
 #boom-scalez {
     flex-wrap: wrap;
 }
+
 html,
 body,
 header,
 .carousel {
     height: 100%;
 }
+
 @media only screen and (max-width:768px) {
-    .navbar {
-        background-color: #1C2331
-    }
     .here {
         background: url(/assets/backgrounds/h_img.jpg)no-repeat 0px 0px;
         background-size: cover;
@@ -79,6 +89,7 @@ header,
         background-position: center center;
         color: #fff;
     }
+
     .mouse-click {
         position: relative;
         bottom: -23px;
