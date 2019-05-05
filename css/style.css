@@ -41,3 +41,7 @@
 #product-management-p {
     display: none;
 }
+.mouse-click {
+    position: relative;
+    bottom: -231px;
+}
