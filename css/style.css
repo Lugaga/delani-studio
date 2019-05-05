@@ -1,12 +1,11 @@
 .here {
-    background: url(../assets/backgrounds/h_img.jpg)no-repeat 0px 0px;
+    background: url(assets/backgrounds/h_img.jpg)no-repeat 0px 0px;
     background-size: cover;
     padding: 17em;
     background-repeat: no-repeat;
     background-position: center center;
     color: #fff;
 }
-
 .about-us {
     text-align: center;
     color: #000000;
@@ -15,7 +14,7 @@
 }
 
 .servicez {
-    background: url(../assets/backgrounds/s_image.jpg)no-repeat 0px 0px;
+    background: url(assets/backgrounds/s_image.jpg)no-repeat 0px 0px;
     background-size: cover;
     padding: 0;
     text-align: center;
@@ -28,7 +27,7 @@
 }
 
 .contact {
-    background: url(../assets/backgrounds/c_image.jpg)no-repeat 0px 0px;
+    background: url(assets/backgrounds/c_image.jpg)no-repeat 0px 0px;
     background-size: cover;
     padding: 0%;
     background-repeat: no-repeat;
