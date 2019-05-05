@@ -21,7 +21,7 @@ Lugaga Maurice Ngulu
 7.GOOGLE FONTS
 9.FORMSPREE
 8.OPEN GRAPHS
-10.GMAIL.
+10.GMAIL
 
 ## Setup Instructions
     I. Search my repository on github or alternatively click here >> https://lugaga.github.io/delani-studio
@@ -36,4 +36,5 @@ Lugaga Maurice Ngulu
 
 ## License
 Copyright © 2019, Lugaga Maurice Ngulu. Released under the MIT License - read the LICENSE.md file for more information.
+https://github.com/Lugaga/delani-studio/blob/master/LICENSE.
     
